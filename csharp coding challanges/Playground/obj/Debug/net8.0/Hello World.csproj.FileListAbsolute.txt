@@ -1,0 +1,42 @@
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\bin\Debug\net8.0\Hello World.exe
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\bin\Debug\net8.0\Hello World.deps.json
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\bin\Debug\net8.0\Hello World.runtimeconfig.json
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\bin\Debug\net8.0\Hello World.dll
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\bin\Debug\net8.0\Hello World.pdb
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\obj\Debug\net8.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\obj\Debug\net8.0\Hello World.AssemblyInfoInputs.cache
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\obj\Debug\net8.0\Hello World.AssemblyInfo.cs
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\obj\Debug\net8.0\Hello World.csproj.CoreCompileInputs.cache
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\obj\Debug\net8.0\Hello World.dll
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\obj\Debug\net8.0\refint\Hello World.dll
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\obj\Debug\net8.0\Hello World.pdb
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\obj\Debug\net8.0\Hello World.genruntimeconfig.cache
+C:\Coding\csharp coding challanges\basic-challanges-01\Hello World\obj\Debug\net8.0\ref\Hello World.dll
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\bin\Debug\net8.0\Hello World.exe
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\bin\Debug\net8.0\Hello World.deps.json
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\bin\Debug\net8.0\Hello World.runtimeconfig.json
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\bin\Debug\net8.0\Hello World.dll
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\bin\Debug\net8.0\Hello World.pdb
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\obj\Debug\net8.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\obj\Debug\net8.0\Hello World.AssemblyInfoInputs.cache
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\obj\Debug\net8.0\Hello World.AssemblyInfo.cs
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\obj\Debug\net8.0\Hello World.csproj.CoreCompileInputs.cache
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\obj\Debug\net8.0\Hello World.dll
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\obj\Debug\net8.0\refint\Hello World.dll
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\obj\Debug\net8.0\Hello World.pdb
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\obj\Debug\net8.0\Hello World.genruntimeconfig.cache
+C:\Coding\csharp coding challanges\basic-challanges-01\Playground\obj\Debug\net8.0\ref\Hello World.dll
+C:\Coding\csharp coding challanges\Playground\bin\Debug\net8.0\Hello World.exe
+C:\Coding\csharp coding challanges\Playground\bin\Debug\net8.0\Hello World.deps.json
+C:\Coding\csharp coding challanges\Playground\bin\Debug\net8.0\Hello World.runtimeconfig.json
+C:\Coding\csharp coding challanges\Playground\bin\Debug\net8.0\Hello World.dll
+C:\Coding\csharp coding challanges\Playground\bin\Debug\net8.0\Hello World.pdb
+C:\Coding\csharp coding challanges\Playground\obj\Debug\net8.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\csharp coding challanges\Playground\obj\Debug\net8.0\Hello World.AssemblyInfoInputs.cache
+C:\Coding\csharp coding challanges\Playground\obj\Debug\net8.0\Hello World.AssemblyInfo.cs
+C:\Coding\csharp coding challanges\Playground\obj\Debug\net8.0\Hello World.csproj.CoreCompileInputs.cache
+C:\Coding\csharp coding challanges\Playground\obj\Debug\net8.0\Hello World.dll
+C:\Coding\csharp coding challanges\Playground\obj\Debug\net8.0\refint\Hello World.dll
+C:\Coding\csharp coding challanges\Playground\obj\Debug\net8.0\Hello World.pdb
+C:\Coding\csharp coding challanges\Playground\obj\Debug\net8.0\Hello World.genruntimeconfig.cache
+C:\Coding\csharp coding challanges\Playground\obj\Debug\net8.0\ref\Hello World.dll
